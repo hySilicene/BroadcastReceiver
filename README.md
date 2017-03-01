@@ -1,0 +1,2 @@
+# BroadcastReceiver
+用以测试安卓的广播及Github的功能
